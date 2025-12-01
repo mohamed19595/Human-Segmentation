@@ -12,8 +12,6 @@ This project focuses on human-background segmentation using deep learning techni
 
 ## Project Structure
 - **`playground.ipynb`**: The main notebook containing all the steps for preprocessing, model training, and testing.
-- **`Models/`**: Directory to save trained model weights.
-- **`Dataset/`**: Directory containing training and test datasets.
 
 
 - The images and masks should be aligned.
